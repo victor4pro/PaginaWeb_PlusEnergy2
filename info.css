@@ -18,12 +18,18 @@
 
 .info-ups img {
 	width: 180px;
-	height: 200px;
+	height: 280px;
 	border-radius: 50%;
 	border: 7px solid #fff;
 }
 
 @media (min-width: 480px) {
+	.info-ups {
+		width: 100%;
+	}
+}
+
+@media (min-width: 686px) {
 	.info-ups {
 		width: 40%;
 	}
