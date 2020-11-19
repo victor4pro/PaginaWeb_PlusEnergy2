@@ -1,0 +1,23 @@
+#blog_2 h4,h3 {
+	text-align: center;
+}
+
+#blog_2 .contenedor {
+	justify-content: center;
+	width: 100%;
+}
+
+#blog_2 article {
+	margin: 30px;
+}
+
+#blog_2 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	max-width: 250px;
+	max-height: 250px;
+	border-radius: 20%;
+	border: 7px solid #a9a9a9;
+}

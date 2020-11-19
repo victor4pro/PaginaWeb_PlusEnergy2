@@ -7,3 +7,4 @@
 - Diagnóstico de UPS
 - Levantamientos
 - Asesoramientos
+- Reparaciones
