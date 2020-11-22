@@ -50,6 +50,19 @@ section {
 	text-align: center;
 }
 
+#bienvenidos a:link {
+	color: #1e90ff;
+	text-decoration: none;
+}
+
+#bienvenidos a:visited {
+	color: #1e90ff;
+}
+
+#bienvenidos a:hover {
+	color: #8b4513;
+}
+
 footer .contenedor {
 	display: flex;
 	flex-wrap: wrap;
